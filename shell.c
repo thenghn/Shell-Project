@@ -1,10 +1,5 @@
 
-/*GRUP-3
-G191210089      Mehmet Yalçın
-B201210302      Rabia Abdioğlu
-G171210302      Hüseyin Öztürk
-G201210301      Nagihan Yalçın
-B191210386      Enes Kayri
+/*
 
 
 programı çalıştırmak için 
@@ -95,8 +90,6 @@ void built_exit(){
              exit(0);}
 }
 
-void bilgi(){
-printf("\nGRUP-3\n______________________________________________\nG191210089\tMehmet Yalçın\nB201210302\tRabia Abdioğlu\nG171210302\tHüseyin Öztürk\nG201210301\tNagihan Yalçın\nB191210386\tEnes Kayri\n");}
 
 void help(){
 printf("\nBuilt-in komutlar\n-> cd\n-> showpid\n-> exit\n-> bilgi\n-> help\n");}
