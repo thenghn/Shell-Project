@@ -11,8 +11,9 @@
 └── README.text #Readme metin dosyası</br>
 
 ## Programı Derlemek İçin Talimatlar
-`cd  Masaüstü/grup3/sau`</br>
+
 `gcc shell.c -o test `
+
 ## Programları / Komut Dosyalarını Çalıştırmak İçin Talimatlar
 ` ./test `
 ## Geliştirme Sırasında Karşılaşılan Zorluklar
