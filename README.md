@@ -1,10 +1,4 @@
-# İşletim Sistemleri Proje Ödevi (Grup 3)
-## Grup Üyeleri
-Rabia Abdioğlu, B201210302, 1-B  <br/>
-Nagihan Yalçın, G201210301, 2-A  <br/>
-Enes Kayri, G171210302, 1-B <br/>
-Hüseyin Öztürk, G171210302, 1-B<br/>
-Mehmet Yalçın, G191210089, 2-B
+
 
 ## Dosyaların ve Dizinlerin Listesi
 
