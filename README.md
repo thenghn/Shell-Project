@@ -2,8 +2,7 @@
 
 ## Dosyaların ve Dizinlerin Listesi
 
-grup3</br>
-├── sau </br>
+
 │   ├── shell.c         #Kabuk kaynak kod dosyası</br>
 │   └── test             #Test </br>
 ├── 1.png       # Program çıktısı</br>
